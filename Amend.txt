@@ -1,0 +1,3 @@
+Amend Command file created.
+Now I am change content of this file.
+Complete this command.
